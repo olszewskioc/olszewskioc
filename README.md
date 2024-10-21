@@ -3,7 +3,7 @@
 
 
 ## Hi, I'm Thiago Olszewski de Carvalho 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Purple Computer" min-width="200px" max-width="200px" width="200px" align="right" style="margin-top: 15px">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Purple Computer" min-width="200px" max-width="200px" width="200px" align="right">
 - 🤔 Entusiast of programming and always learning something new.
 - 🎓 I'm on last period of my Bacharelor deegre in Computer Engineering (UCDB).
 - 💼 I work on Digix as IT Trainee.
