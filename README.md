@@ -41,6 +41,6 @@
 
 ## Contacts
 
-[![Linkedin](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-olszewski-800385213/)](https://www.linkedin.com/in/thiago-olszewski-800385213/)
-[![Gmail Badge](https://img.shields.io/badge/-thiago.olszewskioc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.olszewskioc@gmail.com)](mailto:thiago.olszewskioc@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Thiago-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-olszewski-800385213/)](https://www.linkedin.com/in/thiago-olszewski-800385213/)
+[![Gmail Badge](https://img.shields.io/badge/-thiago.olszewskioc@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiago.olszewskioc@gmail.com)](mailto:thiago.olszewskioc@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/olszewskioc?label=follow&style=social)](https://github.com/olszewskioc)
