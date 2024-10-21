@@ -1,10 +1,11 @@
-![](https://komarev.com/ghpvc/?username=olszewskioc&color=006bff)
+![](https://komarev.com/ghpvc/?username=olszewskioc&color=006bff&style=for-the-badge)
 
 ## Hi, I'm Thiago Olszewski de Carvalho 👋
 
 - 🤔 Entusiast of programming and always learning something new.
 - 🎓 I'm on last period of my Bacharelor deegre in Computer Engineering (UCDB).
 - 💼 I work on Digix as IT Trainee.
+- 🌱 I do some courses in Udemy and looking for certifications in this programming area.
 
 
 ## My Skills
