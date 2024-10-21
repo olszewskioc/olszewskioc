@@ -26,8 +26,7 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 **Learning**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -40,6 +39,6 @@
 
 ## Contacts
 
-[![Linkedin](https://img.shields.io/badge/-thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-olszewski-800385213/)](https://www.linkedin.com/in/thiago-olszewski-800385213/)
-[![Gmail Badge](https://img.shields.io/badge/-thiago.olszewskioc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.olszewskioc@gmail.com)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-olszewski-800385213/)](https://www.linkedin.com/in/thiago-olszewski-800385213/)
+[![Gmail Badge](https://img.shields.io/badge/-thiago.olszewskioc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.olszewskioc@gmail.com)](mailto:thiago.olszewskioc@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/olszewskioc?label=follow&style=social)](https://github.com/olszewskioc)
