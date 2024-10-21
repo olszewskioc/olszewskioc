@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=olszewskioc&color=006bff&style=for-the-badge)
 
-
-## Hi, I'm Thiago Olszewski de Carvalho 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Purple Computer" min-width="300px" max-width="300px" width="300px" align="right">
 
+## Hi, I'm Thiago Olszewski de Carvalho 👋
+---
 - 🤔 Entusiast of programming and always learning something new.
 - 🎓 I'm on last period of my Bacharelor deegre in Computer Engineering (UCDB).
 - 💼 I work on Digix as IT Trainee.
