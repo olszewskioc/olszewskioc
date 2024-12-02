@@ -5,8 +5,8 @@
 ## Hi, I'm Thiago Olszewski de Carvalho 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Purple Computer" min-width="250px" max-width="250px" width="250px" align="right">
 
-- 🤔 Entusiast of programming and always learning something new.
-- 🎓 I'm on last period of my Bacharelor deegre in Computer Engineering (UCDB).
+- 🤔 Entusiast of programming and always learning something new. i like Sports too.
+- 🎓 I have an Bacharelor deegre in Computer Engineering (UCDB).
 - 💼 I work on Digix as IT Trainee.
 - 🌱 I do some courses in Udemy and looking for certifications in this programming area.
 
