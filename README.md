@@ -8,7 +8,7 @@
 - 🤔 Entusiast of programming and always learning something new. i like Sports too.
 - 🎓 I have an Bacharelor deegre in Computer Engineering ([UCDB](https://site.ucdb.br/))
 - 📚 Doing postgraduate in .NET systems architeture ([FIAP](https://www.fiap.com.br/)).
-- 💼 I work on Digix as IT Trainee (.NET, React, Python).
+- 💼 I work on Digix as Fullstack Developer (.NET, Angular).
 - 🌱 I do some courses in Udemy + Alura and looking for certifications in this programming area.
 
 </br>
